@@ -1,0 +1,19 @@
+Question : 1
+_________________________________________________________________________________________________________________________
+
+*****The List component allows you to display a list of pages or links. You can build the list of links by defining a parent 
+      page (and displaying its child pages), manually choosing pages, or defining search criteria.
+*****Lists can be created in a similar way as we create lists in JavaScript.
+      Use a List component whenever you need to display a list of links, such as related topics or a secondary navigation menu.
+
+_________________________________________________________________________________________________________________________
+
+Question : 2
+
+_________________________________________________________________________________________________________________________
+
+*****There will be warnings in the given reactjs code. In list component in single list item we have to use keys.
+*****Keys allow React to keep track of elements. This way, if an item is updated or removed, only that item will 
+      be re-rendered instead of the entire list.
+*****Keys need to be unique to each sibling. But they can be duplicated globally.
+In the answer of question 3 I have used key.
